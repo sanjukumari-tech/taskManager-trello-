@@ -19,7 +19,7 @@ code {
 
 @layer components {
   .button {
-    background-color: #635fc7;
+    background-color: #1f1ab8;
     padding: 0.5rem 1rem;
     border-radius: 9999px;
     color: white;
@@ -66,6 +66,6 @@ code {
 }
 
 .select-status:focus {
-  border-color: #6366f1;
+  border-color: #d963f1;
   box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
 }
